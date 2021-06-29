@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/settingButt"
+        android:title="Settings" />
+    <item
+        android:id="@+id/darkModeButt"
+        android:title="Dark/Light Mode" />
+
+    <item
+        android:id="@+id/boxInfoButt"
+        android:title="Sky Q Box Info" />
+    <item
+        android:id="@+id/aboutButt"
+        android:title="About App" />
+</menu>
